@@ -2,7 +2,7 @@
 Data Exploration and Preprocessing.
 
 # 🚀 Task Overview
-This repository contains my submission for Task 1: Data Exploration and Preprocessing as part of my Cognifyz Data Science Internship.
+This repository contains my submission for Level 1 - Task 1: Data Exploration and Preprocessing as part of my Cognifyz Data Science Internship.
 
 In this task, I performed exploratory data analysis (EDA) and preprocessing on a dataset to ensure data quality and readiness for further analysis.
 

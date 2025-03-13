@@ -16,16 +16,19 @@ Ratings, votes, and price range
 Online delivery and table booking availability
 
 # 📌 Key Steps & Findings
-1️⃣ Dataset Overview
-Identified total number of rows and columns.
+1️⃣ Dataset Overview:
+Identified total number of rows and columns. 
 Checked data types of each column.
-2️⃣ Handling Missing Values
+
+2️⃣ Handling Missing Values:
 Found 9 missing values in the Cuisines column.
 Strategy Used: Replaced missing values with "Unknown" since cuisine type is categorical.
-3️⃣ Data Type Conversion
+
+3️⃣ Data Type Conversion:
 Ensured numerical columns were in the correct format.
 No major inconsistencies found.
-4️⃣ Target Variable Analysis (Aggregate rating)
+
+4️⃣ Target Variable Analysis (Aggregate rating):
 Distribution Analysis: Identified class imbalance in rating categories.
 Found that most restaurants had moderate ratings, with very few having extremely low or high ratings.
 
@@ -37,8 +40,11 @@ Jupyter Notebook (Google Colab)
 
 # 📚 What I Learned
 ✅ Importance of data cleaning and preprocessing before model building.
+
 ✅ Handling missing values based on data context.
+
 ✅ Identifying class imbalances in a dataset.
+
 ✅ Basic data visualization techniques for exploratory analysis.
 
 # How to Use this project?

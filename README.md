@@ -34,8 +34,11 @@ Found that most restaurants had moderate ratings, with very few having extremely
 
 # 🛠️ Tech Stack
 Python
+
 Pandas for data manipulation
+
 Matplotlib & Seaborn for data visualization
+
 Jupyter Notebook (Google Colab)
 
 # 📚 What I Learned
